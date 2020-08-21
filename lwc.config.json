@@ -1,0 +1,14 @@
+{
+    "modules": [
+        {
+            "dir": "src/modules"
+        },
+        {
+            "npm": "lwc-recipes-oss-ui-components"
+        },
+        {
+            "name": "@salesforce/apex/MyClass.someFunMethod",
+            "path": "src/hacky/apex/myClassSomeFunMethod/index.js"
+        }
+    ]
+}
